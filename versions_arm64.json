@@ -8,7 +8,7 @@
     },
     {
         "type": "dl",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.21.1.03",
         "0": "21-06-2024",
         "1": "minecraft-1-21-1"
@@ -31,7 +31,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.20.60.04",
         "0": "lkhyaatcvgjf9fi1fvvp7",
         "1": "minecraft-1-20-60",
@@ -39,7 +39,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.20.51.01",
         "0": "m99awm71lbh0u81y6stz1",
         "1": "minecraft-1-20-51",
@@ -47,7 +47,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.20.0.20",
         "0": "b1n2exzezmacxita4rwhr",
         "1": "minecraft-1-20-0-20",
@@ -55,7 +55,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.19.0.05",
         "0": "doro0y176cdxv6fexwvab",
         "1": "minecraft-1-19-0",
@@ -63,7 +63,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.18.0.02",
         "0": "1rw77rlauri072nf1o6qb",
         "1": "minecraft-1-18-0",
@@ -71,7 +71,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.17.0.02",
         "0": "hbvg4kkg658tzuyj4djjv",
         "1": "minecraft-1-17-0",
@@ -79,7 +79,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.16.0.2",
         "0": "8tnez2taq9ciav8ltx6r6",
         "1": "minecraft-1-16-0",
@@ -95,7 +95,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.14.0.9",
         "0": "iawwewiuzm0lpdyfpiwr8",
         "1": "minecraft-1-14-0",
@@ -103,7 +103,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.13.1.5",
         "0": "cpy187agq30r40c96lwko",
         "1": "minecraft-1-13-1",
@@ -111,7 +111,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.12.0.10",
         "0": "saasyhl707v4wd0kfrlh0",
         "1": "minecraft-1-12-0",
@@ -119,7 +119,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.11.0.5",
         "0": "bnlq00ovae5ns0uhe0vq7",
         "1": "minecraft-1-11-0",
@@ -127,7 +127,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.10.0.4",
         "0": "u2ku4eqm10xt1s1rt6crq",
         "1": "minecraft-1-10-0",
@@ -135,7 +135,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.9.0.0",
         "0": "kqvjw06pxs9d1fkgwt6bu",
         "1": "minecraft-1-9-0",
@@ -143,7 +143,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.8.0.10",
         "0": "gj7gugs5x9ibxvsu2jdip",
         "1": "minecraft-1-8-0",
@@ -151,7 +151,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.7.0.5",
         "0": "5bpq07sxstogmaqq5h2lo",
         "1": "minecraft-1-7-0",
@@ -159,7 +159,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.6.0.5",
         "0": "ipevi10ffm0ie0qpper92",
         "1": "minecraft-1-6-0",
@@ -167,7 +167,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.5.0.10",
         "0": "7zr5pkpnw1qc7aem2dwpj",
         "1": "minecraft-1-5-0",
@@ -175,7 +175,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.4.0.5",
         "0": "6lspxsih4gtghlmxfh01x",
         "1": "minecraft-1-4-0",
@@ -183,7 +183,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.2.13.5",
         "0": "j7xzb9zgrazwncc2b8u9z",
         "1": "minecraft-1-3-0",
@@ -191,7 +191,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.2.0.81",
         "0": "e32m1wmaet55zq1gmvqti",
         "1": "minecraft-1-2-0",
@@ -199,7 +199,7 @@
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.1.3.1",
         "0": "22mxq3romkn2hksx01kqv",
         "1": "minecraft-1-1-3",
@@ -207,14 +207,14 @@
     },
     {
         "type": "dl",
-        "branch": "stable",
+        "branch": "release",
         "ver": "1.0.0.16",
         "0": "07-06-2022",
         "1": "Minecraft-pe-1-0-0"
     },
     {
         "type": "db",
-        "branch": "stable",
+        "branch": "release",
         "ver": "0.13.2.2",
         "0": "2p3nig2dtwc7entqsymd2",
         "1": "minecraft-0-13-2",
