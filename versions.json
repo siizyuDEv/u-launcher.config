@@ -206,18 +206,11 @@
         "2": "rytqj6mh22uitxdrbgamucag6"
     },
     {
-        "type": "dl",
-        "branch": "release",
-        "ver": "1.0.0.16",
-        "0": "07-06-2022",
-        "1": "Minecraft-pe-1-0-0"
-    },
-    {
         "type": "db",
         "branch": "release",
         "ver": "0.13.2.2",
-        "0": "2p3nig2dtwc7entqsymd2",
-        "1": "minecraft-0-13-2",
-        "2": "9co38riuhetzipb08dfu55j2v"
+        "0": "9w1n5nnnlv26qbgtpn56f",
+        "1": "0.13.2.2",
+        "2": "27pxqp45767slvysl6c5kz6va"
     }
 ]
